@@ -4,7 +4,7 @@ import javax.swing.*;
 
 public class Frame extends JFrame{
 
-    private static final long serialVersionUID = 8695325619069488171L;
+    private static final long serialVersionUID = 786754356768767564;
 
     public Frame(int width, int height) {
         // Superkonstruktor dla komponentu JFrame, ustawiamy tytuł ramki
